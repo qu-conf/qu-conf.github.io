@@ -1,1 +1,1 @@
-CAA 0 issue letsencrypt.org
+conf.spin.systems. IN CAA 0 issue "letsencrypt.org"
